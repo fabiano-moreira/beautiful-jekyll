@@ -3,6 +3,8 @@ layout: page
 title: Fabiano Moreira
 subtitle: Bioinformática e Tecnologia. Ciências e Café. Biscoito de Polvilho e mais um Cadiquin de Trem...
 use-site-title: true
+bigimg:
+- "/img/pietro-jeng-266017-unsplash-min.jpg"
 ---
 
 <div class="posts-list">
@@ -34,7 +36,7 @@ use-site-title: true
         {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
         {% assign excerpt_word_count = post.excerpt | number_of_words %}
         {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
-          <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
+          <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[...]</a>
         {% endif %}
       </div>
     </div>
@@ -60,12 +62,12 @@ use-site-title: true
 <ul class="pager main-pager">
   {% if paginator.previous_page %}
   <li class="previous">
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Postagens novas</a>
   </li>
   {% endif %}
   {% if paginator.next_page %}
   <li class="next">
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Postagens antigas &rarr;</a>
   </li>
   {% endif %}
 </ul>
