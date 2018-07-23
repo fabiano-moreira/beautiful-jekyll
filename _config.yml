@@ -24,12 +24,9 @@ description: Bioinformática e Tecnologia. Ciências e Café. Biscoito de Polvil
 
 # List of links in the navigation bar
 navbar-links:
+ Início: ""
  Sobre: "aboutme"
  Tags: "http://fabiano-moreira.github.io/tags/"
-# Resources:
-#  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-#  - Learn markdown: "http://www.markdowntutorial.com/"
-# Author's home: "fabianomoreira.me"
  Busca: "search"
 nav-search: "search"
 
@@ -129,7 +126,7 @@ url-pretty: "fabianomoreira.me"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-# disqus: ""
+ disqus: "fabianomoreiraalves"
 
 # To use Facebook Comments, fill in a Facebook App ID
 # fb_comment_id: ""
