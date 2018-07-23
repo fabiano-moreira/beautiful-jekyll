@@ -25,8 +25,8 @@ description: Bioinformática e Tecnologia. Ciências e Café. Biscoito de Polvil
 # List of links in the navigation bar
 navbar-links:
  Início: ""
- Sobre: "aboutme"
  Tags: "http://fabiano-moreira.github.io/tags/"
+ Sobre: "aboutme"
  Busca: "search"
 nav-search: "search"
 # Resources:
