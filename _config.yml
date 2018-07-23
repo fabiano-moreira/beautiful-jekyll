@@ -24,11 +24,11 @@ description: Bioinformática e Tecnologia. Ciências e Café. Biscoito de Polvil
 
 # List of links in the navigation bar
 navbar-links:
- About Me: "aboutme"
+ Sobre: "aboutme"
 # Resources:
 #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #  - Learn markdown: "http://www.markdowntutorial.com/"
- Author's home: "fabianomoreira.me"
+# Author's home: "fabianomoreira.me"
  Busca: "search"
 nav-search: "search"
 
@@ -74,12 +74,12 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:  
   rss: false
-# facebook: daattali
   email: "fabiano.moreira.alves@gmail.com"
   github: fabiano-moreira
   twitter: fertum79
   google-plus: 111739878752260301067
   linkedin: fabiano-moreira-alves 
+# facebook: daattali  
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
@@ -97,8 +97,8 @@ social-network-links:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
-  google: false
+  facebook: false
+  google: true
   linkedin: true
 
 # How to display the link to the website in the footer
@@ -111,7 +111,7 @@ url-pretty: "fabianomoreira.me"  # eg. "deanattali.com/beautiful-jekyll"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+#google_analytics: "UA-122678291-1"
 
 # Google Tag Manager ID
 #gtm: ""
@@ -149,7 +149,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "America/Sao_Paulo"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
