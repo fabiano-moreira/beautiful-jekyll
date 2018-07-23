@@ -4,41 +4,39 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://fabiano-moreira.github.io"
+url: "http://username.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-# url: "http://username.github.io/projectname"
-# baseurl: "/projectname"
+#url: "http://username.github.io/projectname"
+#baseurl: "/projectname"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Fabiano Moreira
+title: My website
 
 # Short description of your site
-description: Bioinformática e Tecnologia. Ciências e Café. Biscoito de Polvilho e mais um Cadiquin de Trem...
+description: A virtual proof that name is awesome!
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-# Resources:
-#   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-#   - Learn markdown: "http://www.markdowntutorial.com/"
-#   - GitHub Pages: "https://pages.github.com/"
-#  Author's home: "fabianomoreira.me"
- Busca: "search"
-nav-search: "search"
+  Resources:
+    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Learn markdown: "http://www.markdowntutorial.com/"
+    - GitHub Pages: "https://pages.github.com/"
+  Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/Fabiano.png"
+avatar: "/img/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-#  title-img: /path/to/image
+# title-img: /path/to/image
 
 # --- Background colour/image options --- #
 
@@ -66,20 +64,18 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Fabiano Moreira
+  name: Some Person
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: false
-# facebook: daattali
-  email: "fabiano.moreira.alves@gmail.com"
-  github: fabiano-moreira
-  twitter: fertum79
-  google-plus: 111739878752260301067
-  linkedin: fabiano-moreira-alves  
+  rss: true
+  email: "someone@example.com"
+  facebook: daattali
+  github: daattali
+  twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
@@ -97,13 +93,13 @@ social-network-links:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: false
-  google: true
+  facebook: true
+  google: false
   linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "fabianomoreira.me"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -111,7 +107,7 @@ url-pretty: "fabianomoreira.me"  # eg. "deanattali.com/beautiful-jekyll"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: "UA-122678291-1"
+#google_analytics: ""
 
 # Google Tag Manager ID
 #gtm: ""
@@ -149,7 +145,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Sao_Paulo"
+timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
