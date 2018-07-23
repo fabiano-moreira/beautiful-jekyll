@@ -75,12 +75,12 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:  
-# rss: false
   email: "fabiano.moreira.alves@gmail.com"
   github: fabiano-moreira
   twitter: fertum79
   google-plus: 111739878752260301067
   linkedin: fabiano-moreira-alves 
+  rss: false
 # facebook: daattali  
 #  reddit: yourname
 #  google-plus: +DeanAttali
