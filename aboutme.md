@@ -3,7 +3,7 @@ layout: page
 title: Sobre
 subtitle: Um pouco a meu respeito
 ---
-![foto](/img/fabiano.jpg)
+![foto](/img/aboutme/fabiano.jpg)
 
 
 Um salve a todos. Meu nome é Fabiano:
