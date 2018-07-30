@@ -79,7 +79,8 @@ social-network-links:
   github: fabiano-moreira
   twitter: fertum79
   google-plus: 111739878752260301067
-  linkedin: fabiano-moreira-alves 
+  linkedin: fabiano-moreira-alves
+  pinterest: fabianomoreiraalves
   rss: true
 # facebook: daattali  
 #  reddit: yourname
@@ -102,6 +103,7 @@ share-links-active:
   facebook: false
   google: true
   linkedin: true
+  pinterest: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
