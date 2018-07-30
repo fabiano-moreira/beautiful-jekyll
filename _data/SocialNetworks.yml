@@ -96,7 +96,7 @@ yelp:
   baseURL: "https://{{ site.author.yelp }}.yelp.com"
   icon: "fa-yelp"
   
-pinterest 
+pinterest: 
   name: "Pinterest"
   baseURL: "https://www.pinterest.com/"
   icon: "fa-pinterest"
