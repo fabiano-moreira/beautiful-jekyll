@@ -116,7 +116,7 @@ url-pretty: "fabianomoreira.me"  # eg. "deanattali.com/beautiful-jekyll"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: "UA-122678291-1"
+google_analytics: "UA-122678291-1"
 
 # Google Tag Manager ID
 #gtm: ""
