@@ -26,7 +26,7 @@ description: Tecnologia, café e cerveja.... Não necessariamente nessa ordem...
 navbar-links:
  Início: ""
 # Tags: "http://fabiano-moreira.github.io/tags/"
- Tags: "https://fabianomoreira.me/tags/"
+ Tags: "https://fabiano-moreira.github.io//tags/"
  Sobre: "aboutme"
  Busca: "search"
 nav-search: "search"
