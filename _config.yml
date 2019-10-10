@@ -135,7 +135,7 @@ google_analytics: "UA-122678291-1"
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "https-fabiano-moreira.github.io"
+disqus: "fabiano-moreira-github-io"
 
 # To use Facebook Comments, fill in a Facebook App ID
 # fb_comment_id: ""
