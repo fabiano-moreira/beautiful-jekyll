@@ -5,7 +5,7 @@
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 # url: "http://fabiano-moreira.github.io"
-url: "https://fabianomoreira.me"
+url: "https://fabiano-moreira.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -18,7 +18,7 @@ baseurl: ""
 title: Fabiano Moreira
 
 # Short description of your site
-description: Bioinformática e Tecnologia. Ciências e Café. Biscoito de Polvilho e mais um Cadiquin de Trem...
+description: Tecnologia, café e cerveja.... Não necessariamente nessa ordem...
 
 # --- Navigation bar options --- #
 
@@ -79,9 +79,9 @@ social-network-links:
   email: "fabiano.moreira.alves@gmail.com"
   github: fabiano-moreira
   twitter: fertum79
-  google-plus: 111739878752260301067
   linkedin: fabiano-moreira-alves
   pinterest: fabianomoreiraalves
+  instagram: fertum79
   rss: true
 # facebook: daattali  
 #  reddit: yourname
@@ -90,25 +90,27 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
+# google-plus: 111739878752260301067
 
 # Select which share links to show in posts
 share-links-active:
   twitter: true
   facebook: false
-  google: true
+  google: false
   linkedin: true
   pinterest: true
+  instagram: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "fabianomoreira.me"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "fabiano-moreira.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -133,7 +135,7 @@ google_analytics: "UA-122678291-1"
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "https-fabianomoreira-me"
+disqus: "https-fabiano-moreira.github.io"
 
 # To use Facebook Comments, fill in a Facebook App ID
 # fb_comment_id: ""
