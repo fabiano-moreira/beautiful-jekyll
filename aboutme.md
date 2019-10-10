@@ -1,15 +1,17 @@
 ---
 layout: page
 title: Sobre
-subtitle: Um pouco a meu respeito
+subtitle: ...a meu respeito
 ---
 ![foto](/img/aboutme/fabiano.jpg)
 
 
-Um salve a todos. Meu nome é Fabiano:
+  Um salve a todos. Meu nome é Fabiano:
 
-Participei em 2017 de um projeto de Iniciação Científica no Laboratório de Genômica Clínica, na Faculdade de Medicina da UFMG, executando análises bioinformáticas de exomas e genomas de pacientes com doenças genéticas de etiologia desconhecida, acompanhamento dos Workflows, teste de novas ferramentas, análises de Banco de Dados Genômicos. Este foi meu primeiro contato com a Bioinformática.
+  Sou um Desenvolvedor de Software iniciante. Sempre trabalhei com Suporte a Aplicações, desenvolvidas para necessidades específicas de alguns cliente ou criadas por grandes empresas de software. Neste tempo, tive privilégio de trabalhar conjunto a ótimas Pessoas, Desenvolvedores e Testers, em uma software house e pequenas empresas, aprendendo muito sobre softwares, seu ciclo de desenvolvimento e as constantes necessidades das pessoas, nossos clientes.
 
-Tenho interesse em Tecnologia, Desenvolvimento, Teste e Qualidade de Software, Python, Django, Data Science, Linux, Ciência, Biologia Molecular, Empreendedorismo, Viagens, Comida e Bicicleta.
+  Atualmente estudo tecnologias como PHP, Python, Docker, focando em Desenvolvimento Web. Sou interessado em Tecnologias, Desenvolvimento de Software, Teste e Qualidade, gosto e uso Open Source, como Linux, Python, Git, entre outros.
+
+  Além de tecnologia, também aprecio boa companhia, livros técnicos, não técnicos e como todo bom mineiro, gostamos de café, pão de queijo e caminhadas nas montanhas.
 
 
