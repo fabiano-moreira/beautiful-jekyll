@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sobre
-subtitle: ...a meu respeito
+title: a meu respeito
+
 ---
 ![foto](/img/aboutme/fabiano.jpg)
 
